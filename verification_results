@@ -1,0 +1,98 @@
+UVM_INFO testbench.sv(223) @ 0: uvm_test_top.env.a.d [DRV] DATA WRITE addr : 9 din : 199
+UVM_INFO testbench.sv(355) @ 370: uvm_test_top.env.a.m [MON] DATA WRITE addr:9 data:199
+UVM_INFO testbench.sv(417) @ 370: uvm_test_top.env.s [SCO] DATA WRITE OP  addr:9, wdata:199 arr_wr:199
+----------------------------------------------------------------
+UVM_INFO testbench.sv(223) @ 370: uvm_test_top.env.a.d [DRV] DATA WRITE addr : 7 din : 1
+UVM_INFO testbench.sv(355) @ 750: uvm_test_top.env.a.m [MON] DATA WRITE addr:7 data:1
+UVM_INFO testbench.sv(417) @ 750: uvm_test_top.env.s [SCO] DATA WRITE OP  addr:7, wdata:1 arr_wr:1
+----------------------------------------------------------------
+UVM_INFO testbench.sv(223) @ 750: uvm_test_top.env.a.d [DRV] DATA WRITE addr : 6 din : 71
+UVM_INFO testbench.sv(355) @ 1130: uvm_test_top.env.a.m [MON] DATA WRITE addr:6 data:71
+UVM_INFO testbench.sv(417) @ 1130: uvm_test_top.env.s [SCO] DATA WRITE OP  addr:6, wdata:71 arr_wr:71
+----------------------------------------------------------------
+UVM_INFO testbench.sv(223) @ 1130: uvm_test_top.env.a.d [DRV] DATA WRITE addr : 4 din : 200
+UVM_INFO testbench.sv(355) @ 1510: uvm_test_top.env.a.m [MON] DATA WRITE addr:4 data:200
+UVM_INFO testbench.sv(417) @ 1510: uvm_test_top.env.s [SCO] DATA WRITE OP  addr:4, wdata:200 arr_wr:200
+----------------------------------------------------------------
+UVM_INFO testbench.sv(223) @ 1510: uvm_test_top.env.a.d [DRV] DATA WRITE addr : 6 din : 131
+UVM_INFO testbench.sv(355) @ 1890: uvm_test_top.env.a.m [MON] DATA WRITE addr:6 data:131
+UVM_INFO testbench.sv(417) @ 1890: uvm_test_top.env.s [SCO] DATA WRITE OP  addr:6, wdata:131 arr_wr:131
+----------------------------------------------------------------
+UVM_INFO testbench.sv(223) @ 1890: uvm_test_top.env.a.d [DRV] DATA WRITE addr : 6 din : 103
+UVM_INFO testbench.sv(355) @ 2270: uvm_test_top.env.a.m [MON] DATA WRITE addr:6 data:103
+UVM_INFO testbench.sv(417) @ 2270: uvm_test_top.env.s [SCO] DATA WRITE OP  addr:6, wdata:103 arr_wr:103
+----------------------------------------------------------------
+UVM_INFO testbench.sv(223) @ 2270: uvm_test_top.env.a.d [DRV] DATA WRITE addr : 8 din : 105
+UVM_INFO testbench.sv(355) @ 2650: uvm_test_top.env.a.m [MON] DATA WRITE addr:8 data:105
+UVM_INFO testbench.sv(417) @ 2650: uvm_test_top.env.s [SCO] DATA WRITE OP  addr:8, wdata:105 arr_wr:105
+----------------------------------------------------------------
+UVM_INFO testbench.sv(223) @ 2650: uvm_test_top.env.a.d [DRV] DATA WRITE addr : 7 din : 148
+UVM_INFO testbench.sv(355) @ 3030: uvm_test_top.env.a.m [MON] DATA WRITE addr:7 data:148
+UVM_INFO testbench.sv(417) @ 3030: uvm_test_top.env.s [SCO] DATA WRITE OP  addr:7, wdata:148 arr_wr:148
+----------------------------------------------------------------
+UVM_INFO testbench.sv(223) @ 3030: uvm_test_top.env.a.d [DRV] DATA WRITE addr : 2 din : 237
+UVM_INFO testbench.sv(355) @ 3410: uvm_test_top.env.a.m [MON] DATA WRITE addr:2 data:237
+UVM_INFO testbench.sv(417) @ 3410: uvm_test_top.env.s [SCO] DATA WRITE OP  addr:2, wdata:237 arr_wr:237
+----------------------------------------------------------------
+UVM_INFO testbench.sv(223) @ 3410: uvm_test_top.env.a.d [DRV] DATA WRITE addr : 4 din : 140
+UVM_INFO testbench.sv(355) @ 3790: uvm_test_top.env.a.m [MON] DATA WRITE addr:4 data:140
+UVM_INFO testbench.sv(417) @ 3790: uvm_test_top.env.s [SCO] DATA WRITE OP  addr:4, wdata:140 arr_wr:140
+----------------------------------------------------------------
+UVM_INFO testbench.sv(265) @ 4190: uvm_test_top.env.a.d [DRV] DATA READ addr : 1 dout : 0
+UVM_INFO testbench.sv(379) @ 4190: uvm_test_top.env.a.m [MON] DATA READ addr:1 data:0 
+UVM_INFO testbench.sv(424) @ 4190: uvm_test_top.env.s [SCO] DATA MATCHED : addr:1, rdata:0
+----------------------------------------------------------------
+UVM_INFO testbench.sv(265) @ 4590: uvm_test_top.env.a.d [DRV] DATA READ addr : 10 dout : 0
+UVM_INFO testbench.sv(379) @ 4590: uvm_test_top.env.a.m [MON] DATA READ addr:10 data:0 
+UVM_INFO testbench.sv(424) @ 4590: uvm_test_top.env.s [SCO] DATA MATCHED : addr:10, rdata:0
+----------------------------------------------------------------
+UVM_INFO testbench.sv(265) @ 4990: uvm_test_top.env.a.d [DRV] DATA READ addr : 10 dout : 0
+UVM_INFO testbench.sv(379) @ 4990: uvm_test_top.env.a.m [MON] DATA READ addr:10 data:0 
+UVM_INFO testbench.sv(424) @ 4990: uvm_test_top.env.s [SCO] DATA MATCHED : addr:10, rdata:0
+----------------------------------------------------------------
+UVM_INFO testbench.sv(265) @ 5390: uvm_test_top.env.a.d [DRV] DATA READ addr : 1 dout : 0
+UVM_INFO testbench.sv(379) @ 5390: uvm_test_top.env.a.m [MON] DATA READ addr:1 data:0 
+UVM_INFO testbench.sv(424) @ 5390: uvm_test_top.env.s [SCO] DATA MATCHED : addr:1, rdata:0
+----------------------------------------------------------------
+UVM_INFO testbench.sv(265) @ 5790: uvm_test_top.env.a.d [DRV] DATA READ addr : 0 dout : 0
+UVM_INFO testbench.sv(379) @ 5790: uvm_test_top.env.a.m [MON] DATA READ addr:0 data:0 
+UVM_INFO testbench.sv(424) @ 5790: uvm_test_top.env.s [SCO] DATA MATCHED : addr:0, rdata:0
+----------------------------------------------------------------
+UVM_INFO testbench.sv(265) @ 6190: uvm_test_top.env.a.d [DRV] DATA READ addr : 5 dout : 0
+UVM_INFO testbench.sv(379) @ 6190: uvm_test_top.env.a.m [MON] DATA READ addr:5 data:0 
+UVM_INFO testbench.sv(424) @ 6190: uvm_test_top.env.s [SCO] DATA MATCHED : addr:5, rdata:0
+----------------------------------------------------------------
+UVM_INFO testbench.sv(265) @ 6590: uvm_test_top.env.a.d [DRV] DATA READ addr : 6 dout : 103
+UVM_INFO testbench.sv(379) @ 6590: uvm_test_top.env.a.m [MON] DATA READ addr:6 data:103 
+UVM_INFO testbench.sv(424) @ 6590: uvm_test_top.env.s [SCO] DATA MATCHED : addr:6, rdata:103
+----------------------------------------------------------------
+UVM_INFO testbench.sv(265) @ 6990: uvm_test_top.env.a.d [DRV] DATA READ addr : 7 dout : 148
+UVM_INFO testbench.sv(379) @ 6990: uvm_test_top.env.a.m [MON] DATA READ addr:7 data:148 
+UVM_INFO testbench.sv(424) @ 6990: uvm_test_top.env.s [SCO] DATA MATCHED : addr:7, rdata:148
+----------------------------------------------------------------
+UVM_INFO testbench.sv(265) @ 7390: uvm_test_top.env.a.d [DRV] DATA READ addr : 1 dout : 0
+UVM_INFO testbench.sv(379) @ 7390: uvm_test_top.env.a.m [MON] DATA READ addr:1 data:0 
+UVM_INFO testbench.sv(424) @ 7390: uvm_test_top.env.s [SCO] DATA MATCHED : addr:1, rdata:0
+----------------------------------------------------------------
+UVM_INFO testbench.sv(265) @ 7790: uvm_test_top.env.a.d [DRV] DATA READ addr : 5 dout : 0
+UVM_INFO testbench.sv(379) @ 7790: uvm_test_top.env.a.m [MON] DATA READ addr:5 data:0 
+UVM_INFO testbench.sv(424) @ 7790: uvm_test_top.env.s [SCO] DATA MATCHED : addr:5, rdata:0
+----------------------------------------------------------------
+UVM_INFO /xcelium23.09/tools/methodology/UVM/CDNS-1.2/sv/src/base/uvm_objection.svh(1271) @ 7790: reporter [TEST_DONE] 'run' phase is ready to proceed to the 'extract' phase
+UVM_INFO /xcelium23.09/tools/methodology/UVM/CDNS-1.2/sv/src/base/uvm_report_server.svh(847) @ 7790: reporter [UVM/REPORT/SERVER] 
+--- UVM Report Summary ---
+
+** Report counts by severity
+UVM_INFO :   63
+UVM_WARNING :    0
+UVM_ERROR :    0
+UVM_FATAL :    0
+** Report counts by id
+[DRV]    20
+[MON]    20
+[RNTST]     1
+[SCO]    20
+[TEST_DONE]     1
+[UVM/RELNOTES]     1
+
+Simulation complete via $finish(1) at time 7790 NS + 67
