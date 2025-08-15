@@ -41,14 +41,6 @@ The project consists of the following key files and components:
 
 ---
 
-## **Run Locally**
-
-### **Clone the Project**
-```bash
-git clone https://github.com/Priyanshu7900/VERIFICATION-OF-SPI_MEMORY-IN-UVM.git
-cd VERIFICATION-OF-SPI_MEMORY-IN-UVM
-```
-
 ## **Run on EDA Playground**
 
 1. Visit [EDA Playground](https://www.edaplayground.com/)  
