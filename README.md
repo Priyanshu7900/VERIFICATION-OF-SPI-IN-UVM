@@ -44,7 +44,7 @@ The project consists of the following key files and components:
 ## **Run on EDA Playground**
 
 1. Visit [EDA Playground](https://www.edaplayground.com/)  
-2. Set **Language** to *SystemVerilog*  
+2. Set **Language** to *SystemVerilog and select UVM 1.2*  
 3. Add the following files:
    - `spi_memory.sv`
    - `spi_memory_tb.sv`
